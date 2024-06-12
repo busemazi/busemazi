@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an industrious and innovative Industrial Engineer transitioning<br> into the world of technology as a Junior Full-Stack Developer. <br>💻 I'm currently learning UX design and create a Rest API with Django Rest framework <br>for my portfolio. 
+I am an industrious and innovative Industrial Engineer transitioning<br> into the world of technology as a Data Analyst <br>💻 I'm currently learning Dashboard Design and analyse datas <br>for my portfolio. 
 
 
 ## 🌐 Socials:
